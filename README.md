@@ -19,4 +19,4 @@ This project explores the Netflix dataset with a detailed EDA process:
 
 ---
 
-📊 **See the notebook here:** [Netflix-EDA.ipynb](./Netflix-EDA.ipynb)
+**See the notebook here:** [Netflix_EDA.ipynb](./Netflix_EDA.ipynb)
